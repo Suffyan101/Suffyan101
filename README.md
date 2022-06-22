@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through email
+- 📫 Reach me through my email suffyan.r01@gmail.com
 
 <!---
 Suffyan101/Suffyan101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
